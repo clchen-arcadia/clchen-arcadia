@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**clchen-arcadia/clchen-arcadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack software engineer and recent grad from Rithm School's web development bootcamp.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+    Job searching, solving problems, and building new things!
+    
+- 🌱 I’m currently learning:
+    More about Python and TypeScript, and bulding apps in React.js and Django.
+    
+- 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  LinkedIn: https://www.linkedin.com/in/christopherlichen/
+
+  Email: clchen.arcadia@gmail.com
+    
+- 💬 Ask me about:
+    Anything! My projects, my career change from biochemistry, or my hobbies of cooking or board games!
