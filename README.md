@@ -13,6 +13,8 @@ I'm a full stack software engineer and recent grad from Rithm School's web devel
   LinkedIn: https://www.linkedin.com/in/christopherlichen/
 
   Email: clchen.arcadia@gmail.com
+
+  Website: https://chrischen.dev
     
 - 💬 Ask me about:
     Anything! My projects, my career change from biochemistry, or my hobbies of cooking or board games!
